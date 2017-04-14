@@ -1,0 +1,6 @@
+framework module WBPagerController {
+  umbrella header "WBPagerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

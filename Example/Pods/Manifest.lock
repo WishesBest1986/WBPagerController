@@ -1,0 +1,16 @@
+PODS:
+  - WBPagerController (0.1.0)
+
+DEPENDENCIES:
+  - WBPagerController (from `../`)
+
+EXTERNAL SOURCES:
+  WBPagerController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WBPagerController: 22c4074dff26856bd0ccb2716a6e963a0169a8ab
+
+PODFILE CHECKSUM: b4716378dd1ddec47aa8d6dfb6b2939d2bdb6c0f
+
+COCOAPODS: 1.1.1

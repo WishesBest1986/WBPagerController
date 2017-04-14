@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WBPagerController_Example' do
+  pod 'WBPagerController', :path => '../'
+
+  target 'WBPagerController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

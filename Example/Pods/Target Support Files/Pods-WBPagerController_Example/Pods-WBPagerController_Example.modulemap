@@ -1,0 +1,6 @@
+framework module Pods_WBPagerController_Example {
+  umbrella header "Pods-WBPagerController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
